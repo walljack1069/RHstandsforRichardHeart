@@ -15,3 +15,14 @@ In repository **Settings → Pages**, select **Deploy from a branch**, choose `m
 - The DexScreener link opens a search by address rather than assuming a particular pair.
 
 This is an independent community site and includes an affiliation disclaimer.
+
+
+## sciVive Daily section
+
+Initial update: upload index.html, style.css and scivive-daily.jpeg to the root of the existing GitHub repository. Replace the existing HTML and CSS files. Keep the other images. Commit to main.
+
+The section is linked from the desktop navigation and a hero button visible on mobile. It displays the supplied edition 001 graphic, with full-size viewing, download and a Telegram discussion link. The artwork and its attribution are user supplied; this update does not independently verify the quotation against the book.
+
+Daily update: review the graphic delivered by the existing 10 a.m. America/New_York task. Save the approved graphic as scivive-daily.jpeg, replace that file in the repository, and update its image alt text in index.html to match. The image should be a JPEG; export to JPEG rather than changing an unrelated format's extension. Commit the update. The website then displays the approved edition after GitHub Pages deploys it.
+
+The existing ChatGPT automation delivers drafts here for review and is unchanged. It has no automatic publishing connection to GitHub. This website section does not generate, fetch or publish a new excerpt at 10 a.m. by itself.
