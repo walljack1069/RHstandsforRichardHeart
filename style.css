@@ -10,3 +10,13 @@
 .scivive-label{font-size:10px;letter-spacing:2.5px;font-weight:800}.scivive-copy{min-width:0}.scivive-copy h3{font-size:clamp(27px,3vw,40px);letter-spacing:-1px;line-height:1.15;margin:18px 0}.scivive-copy p{color:#b3abbc;line-height:1.7;font-size:16px}.scivive-copy .scivive-schedule{font-size:13px;border-left:2px solid #b8945d;padding-left:16px;margin:25px 0}.scivive-schedule strong{color:#f0d7ab}.scivive-actions{display:flex;flex-wrap:wrap;gap:12px}.scivive-actions .btn{font-size:10px;padding:0 18px}.scivive a:focus-visible{outline:3px solid #efd5a8;outline-offset:5px}
 @media(max-width:800px){.scivive-layout{grid-template-columns:1fr;gap:28px}.scivive-copy h3{font-size:32px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.halo{animation:none}}
+
+/* Richard Heart video excerpts */
+.video-excerpts{scroll-margin-top:24px;background:radial-gradient(ellipse at top left,#8f1b8b22,transparent 65%),#0b0910;border-color:#9e3ceb38}
+.video-excerpts .kicker,.video-label{color:#45d9ff}.video-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,.9fr);gap:42px;align-items:center;margin-top:32px}
+.video-frame{max-width:410px;margin:auto;padding:8px;border-radius:20px;border:1px solid #b444ef55;background:linear-gradient(145deg,#ff19c955,#00d7ff44);box-shadow:0 20px 60px #0009;width:100%}
+.video-frame video{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:contain;border-radius:12px;background:#090713}
+.video-label{font-size:10px;letter-spacing:2.5px;font-weight:800}.video-copy h3{font-size:clamp(30px,4vw,48px);line-height:1.08;letter-spacing:-1.5px;margin:18px 0}.video-copy p{color:#b3abbc;line-height:1.7;font-size:16px}
+.video-actions{display:flex;flex-wrap:wrap;gap:12px;margin:26px 0}.video-actions .btn{font-size:10px;padding:0 18px}.video-copy .video-note{font-size:13px;color:#8c8795}
+.video-excerpts a:focus-visible,.video-excerpts video:focus-visible{outline:3px solid #69dcff;outline-offset:5px}
+@media(max-width:800px){.video-layout{grid-template-columns:1fr;gap:30px}.video-frame{max-width:390px}}
