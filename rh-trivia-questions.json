@@ -1,0 +1,512 @@
+[
+  {
+    "id": "rh-001",
+    "category": "PulseChain",
+    "difficulty": "Easy",
+    "question": "What is PulseChain’s native coin?",
+    "options": [
+      "HEX",
+      "PLSX",
+      "PLS",
+      "INC"
+    ],
+    "answer": 2,
+    "explanation": "PLS pays network transaction fees.",
+    "source": "https://pulsex.com/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-002",
+    "category": "Richard Heart",
+    "difficulty": "Easy",
+    "question": "Who founded HEX?",
+    "options": [
+      "Vitalik Buterin",
+      "Richard Heart",
+      "Satoshi Nakamoto",
+      "Charlie Lee"
+    ],
+    "answer": 1,
+    "explanation": "HEX’s official history names Richard Heart as its founder.",
+    "source": "https://hex.com/howitworks/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-003",
+    "category": "Books",
+    "difficulty": "Easy",
+    "question": "Which Richard Heart book focuses on self-improvement?",
+    "options": [
+      "The Bitcoin Standard",
+      "sciVive",
+      "The Internet of Money",
+      "Mastering Ethereum"
+    ],
+    "answer": 1,
+    "explanation": "sciVive explores improving yourself and how you think.",
+    "source": "https://rhmax.org/blog/fix-the-world",
+    "sourceLabel": "Community book guide",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-004",
+    "category": "HEX",
+    "difficulty": "Medium",
+    "question": "When was HEX released?",
+    "options": [
+      "December 2, 2019",
+      "May 13, 2023",
+      "January 3, 2009",
+      "July 30, 2015"
+    ],
+    "answer": 0,
+    "explanation": "HEX launched on December 2, 2019.",
+    "source": "https://hex.com/howitworks/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-005",
+    "category": "PulseX",
+    "difficulty": "Easy",
+    "question": "Which token belongs to PulseX?",
+    "options": [
+      "PLS",
+      "INC",
+      "PLSX",
+      "ETH"
+    ],
+    "answer": 2,
+    "explanation": "PLSX is PulseX’s token.",
+    "source": "https://pulsex.com/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-006",
+    "category": "Wallet safety",
+    "difficulty": "Easy",
+    "question": "What should you do if a website requests your seed words?",
+    "options": [
+      "Enter half",
+      "Send them privately",
+      "Upload a photo",
+      "Keep them secret"
+    ],
+    "answer": 3,
+    "explanation": "HEX’s security page warns against websites requesting recovery phrases.",
+    "source": "https://hex.com/security/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-007",
+    "category": "PulseChain",
+    "difficulty": "Medium",
+    "question": "What is PulseChain mainnet’s chain ID?",
+    "options": [
+      "1",
+      "369",
+      "943",
+      "56"
+    ],
+    "answer": 1,
+    "explanation": "Mainnet uses 369 in wallet network settings.",
+    "source": "https://help.pulseln.com/en/pulseln-general-faq/how-do-i-connect-metamask-to-pulsechain",
+    "sourceLabel": "PulseLN network documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-008",
+    "category": "HEX",
+    "difficulty": "Medium",
+    "question": "What is HEX’s maximum stake duration?",
+    "options": [
+      "365 days",
+      "1,000 days",
+      "5,555 days",
+      "10,000 days"
+    ],
+    "answer": 2,
+    "explanation": "The documented maximum is 5,555 days.",
+    "source": "https://hex.com/faq/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-009",
+    "category": "PulseX",
+    "difficulty": "Medium",
+    "question": "What does INC stand for?",
+    "options": [
+      "Incentive",
+      "Income",
+      "Incoming",
+      "Incorporated"
+    ],
+    "answer": 0,
+    "explanation": "INC incentivizes liquidity providers.",
+    "source": "https://pulsex.com/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-010",
+    "category": "Books",
+    "difficulty": "Medium",
+    "question": "Which book follows sciVive with ideas for improving society?",
+    "options": [
+      "Atomic Habits",
+      "The Sovereign Individual",
+      "Fix The World",
+      "The Psychology of Money"
+    ],
+    "answer": 2,
+    "explanation": "Fix The World extends the focus beyond personal improvement.",
+    "source": "https://rhmax.org/blog/fix-the-world",
+    "sourceLabel": "Community book guide",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-011",
+    "category": "HEX",
+    "difficulty": "Medium",
+    "question": "What was HEX originally called?",
+    "options": [
+      "EtherHEX",
+      "BitcoinHEX",
+      "PulseHEX",
+      "StakeCoin"
+    ],
+    "answer": 1,
+    "explanation": "BitcoinHEX preceded the HEX name.",
+    "source": "https://hex.com/howitworks/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-012",
+    "category": "PulseChain",
+    "difficulty": "Easy",
+    "question": "What is the official public RPC address listed by PulseLN?",
+    "options": [
+      "rpc.hex.com",
+      "rpc.pulsex.com",
+      "rpc.bitcoin.com",
+      "rpc.pulsechain.com"
+    ],
+    "answer": 3,
+    "explanation": "The network settings list rpc.pulsechain.com.",
+    "source": "https://help.pulseln.com/en/pulseln-general-faq/how-do-i-connect-metamask-to-pulsechain",
+    "sourceLabel": "PulseLN network documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-013",
+    "category": "HEX",
+    "difficulty": "Medium",
+    "question": "What does a staking ladder spread out?",
+    "options": [
+      "Wallet passwords",
+      "Stake end dates",
+      "Network IDs",
+      "Token decimals"
+    ],
+    "answer": 1,
+    "explanation": "A ladder staggers stake maturity dates.",
+    "source": "https://hex.com/faq/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-014",
+    "category": "PulseX",
+    "difficulty": "Easy",
+    "question": "PulseX’s buy-and-burn mechanism targets which token?",
+    "options": [
+      "PLSX",
+      "BTC",
+      "HEX",
+      "ETH"
+    ],
+    "answer": 0,
+    "explanation": "The mechanism buys and burns PLSX.",
+    "source": "https://pulsex.com/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-015",
+    "category": "Wallet safety",
+    "difficulty": "Easy",
+    "question": "Which wallet type does HEX’s security guide discuss for offline key protection?",
+    "options": [
+      "Exchange account",
+      "Email inbox",
+      "Hardware wallet",
+      "Shared spreadsheet"
+    ],
+    "answer": 2,
+    "explanation": "The guide describes using a Trezor hardware wallet.",
+    "source": "https://hex.com/security/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-016",
+    "category": "HEX",
+    "difficulty": "Medium",
+    "question": "What was the final day of HEX’s launch phase called?",
+    "options": [
+      "Genesis Day",
+      "BigPayDay",
+      "Merge Day",
+      "Halving Day"
+    ],
+    "answer": 1,
+    "explanation": "BigPayDay concluded the launch phase.",
+    "source": "https://hex.com/howitworks/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-017",
+    "category": "Books",
+    "difficulty": "Medium",
+    "question": "sciVive’s name connects survival with what?",
+    "options": [
+      "Fashion",
+      "Trading volume",
+      "Science",
+      "Astrology"
+    ],
+    "answer": 2,
+    "explanation": "The name combines science and survival, according to this community reading guide.",
+    "source": "https://rhmax.org/blog/scivive-mind-body-spirit",
+    "sourceLabel": "Community book guide",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-018",
+    "category": "PulseX",
+    "difficulty": "Medium",
+    "question": "What can eligible PulseX LP tokens be deposited into to earn INC?",
+    "options": [
+      "A yield farm",
+      "A Bitcoin miner",
+      "A bank vault",
+      "An email account"
+    ],
+    "answer": 0,
+    "explanation": "The official site describes farming INC with LP tokens.",
+    "source": "https://pulsex.com/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-019",
+    "category": "HEX",
+    "difficulty": "Medium",
+    "question": "Can an active native HEX stake have more HEX added to it?",
+    "options": [
+      "Only on Sundays",
+      "Only after a vote",
+      "Yes, always",
+      "No"
+    ],
+    "answer": 3,
+    "explanation": "The FAQ says existing stakes cannot be topped up.",
+    "source": "https://hex.com/faq/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-020",
+    "category": "PulseChain",
+    "difficulty": "Medium",
+    "question": "PulseChain is a fork of which network?",
+    "options": [
+      "Solana",
+      "Bitcoin",
+      "Ethereum",
+      "Dogecoin"
+    ],
+    "answer": 2,
+    "explanation": "PulseX’s FAQ describes PulseChain as an Ethereum fork.",
+    "source": "https://pulsex.com/faq/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-021",
+    "category": "HEX",
+    "difficulty": "Hard",
+    "question": "One HEX T-Share equals how many B-Shares?",
+    "options": [
+      "10",
+      "1,000",
+      "100",
+      "1,000,000"
+    ],
+    "answer": 1,
+    "explanation": "The share conversion is 1,000 B-Shares per T-Share.",
+    "source": "https://hex.com/howitworks/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-022",
+    "category": "Wallet safety",
+    "difficulty": "Easy",
+    "question": "Who should receive your recovery phrase in an unsolicited support DM?",
+    "options": [
+      "A verified-looking admin",
+      "A helpful stranger",
+      "A group moderator",
+      "Nobody"
+    ],
+    "answer": 3,
+    "explanation": "The security guide warns about unsolicited admin DMs.",
+    "source": "https://hex.com/security/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-023",
+    "category": "PulseX",
+    "difficulty": "Medium",
+    "question": "Which exchange was PulseX forked from?",
+    "options": [
+      "Uniswap",
+      "Coinbase",
+      "Kraken",
+      "Binance"
+    ],
+    "answer": 0,
+    "explanation": "PulseX’s official description identifies it as a Uniswap fork.",
+    "source": "https://pulsex.com/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-024",
+    "category": "HEX",
+    "difficulty": "Medium",
+    "question": "What does GA stand for in HEX?",
+    "options": [
+      "Global Allocation",
+      "Gas Allowance",
+      "Good Accounting",
+      "Growth Adjustment"
+    ],
+    "answer": 2,
+    "explanation": "Good Accounting is a function for matured stakes.",
+    "source": "https://hex.com/faq/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-025",
+    "category": "Books",
+    "difficulty": "Easy",
+    "question": "The sciVive reading guide groups mind and body with which third theme?",
+    "options": [
+      "Fame",
+      "Spirit",
+      "Leverage",
+      "Trading"
+    ],
+    "answer": 1,
+    "explanation": "The guide explores Mind, Body, and Spirit.",
+    "source": "https://rhmax.org/blog/scivive-mind-body-spirit",
+    "sourceLabel": "Community book guide",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-026",
+    "category": "PulseX",
+    "difficulty": "Easy",
+    "question": "According to PulseX’s FAQ, which network must MetaMask use to display PLSX?",
+    "options": [
+      "Bitcoin",
+      "Ethereum Classic",
+      "Solana",
+      "PulseChain"
+    ],
+    "answer": 3,
+    "explanation": "PLSX is held and used on PulseChain.",
+    "source": "https://pulsex.com/faq/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-027",
+    "category": "HEX",
+    "difficulty": "Medium",
+    "question": "What was AA during HEX’s launch phase?",
+    "options": [
+      "Adoption Amplifier",
+      "Annual Audit",
+      "Account Approval",
+      "Asset Auction"
+    ],
+    "answer": 0,
+    "explanation": "The Adoption Amplifier transformed ETH into HEX during launch.",
+    "source": "https://hex.com/howitworks/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-028",
+    "category": "Books",
+    "difficulty": "Medium",
+    "question": "Which book title is also described as “15 Ways to Fix The World”?",
+    "options": [
+      "sciVive",
+      "Mastering Bitcoin",
+      "Fix The World",
+      "The Price of Tomorrow"
+    ],
+    "answer": 2,
+    "explanation": "The community guide lists this alternate title.",
+    "source": "https://rhmax.org/blog/fix-the-world",
+    "sourceLabel": "Community book guide",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-029",
+    "category": "HEX",
+    "difficulty": "Medium",
+    "question": "At what time does the HEX FAQ say a pending stake locks in?",
+    "options": [
+      "Noon Eastern",
+      "Midnight UTC",
+      "Noon UTC",
+      "Midnight Pacific"
+    ],
+    "answer": 1,
+    "explanation": "The FAQ identifies midnight UTC as the lock-in time.",
+    "source": "https://hex.com/faq/",
+    "sourceLabel": "Official project documentation",
+    "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "rh-030",
+    "category": "PulseChain",
+    "difficulty": "Easy",
+    "question": "Which wallet is used in PulseLN’s PulseChain setup guide?",
+    "options": [
+      "Electrum",
+      "MetaMask",
+      "BlueWallet",
+      "Sparrow"
+    ],
+    "answer": 1,
+    "explanation": "PulseLN’s guide walks through adding PulseChain to MetaMask.",
+    "source": "https://help.pulseln.com/en/pulseln-general-faq/how-do-i-connect-metamask-to-pulsechain",
+    "sourceLabel": "PulseLN network documentation",
+    "verifiedOn": "2026-10-28"
+  }
+]
