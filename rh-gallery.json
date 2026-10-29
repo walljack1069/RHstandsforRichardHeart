@@ -1,5 +1,105 @@
 [
   {
+    "id": "1957-chevy",
+    "title": "The $RH ’57 Chevy",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-1957-chevy.jpg",
+    "thumbnail": "rh-meme-1957-chevy-preview.jpg",
+    "alt": "A neon-lit 1957 Chevrolet with Richard Heart behind the wheel at sunset.",
+    "description": ""
+  },
+  {
+    "id": "circular-neon-rh",
+    "title": "The Neon RH Emblem",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-circular-neon-rh.jpg",
+    "thumbnail": "rh-meme-circular-neon-rh-preview.jpg",
+    "alt": "Circular neon RH Stands for Richard Heart emblem on a brick wall.",
+    "description": ""
+  },
+  {
+    "id": "reintroduce-the-vision",
+    "title": "Reintroduce the Vision",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-reintroduce-the-vision.jpg",
+    "thumbnail": "rh-meme-reintroduce-the-vision-preview.jpg",
+    "alt": "Richard Heart overlooking a futuristic city in a $RH Vision community poster.",
+    "description": ""
+  },
+  {
+    "id": "ideas-worth-revisiting",
+    "title": "Ideas Worth Revisiting",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-ideas-worth-revisiting.jpg",
+    "thumbnail": "rh-meme-ideas-worth-revisiting-preview.jpg",
+    "alt": "A glowing futuristic city model with the message $RH Vision: Ideas Worth Revisiting.",
+    "description": ""
+  },
+  {
+    "id": "bring-the-vision-back",
+    "title": "Bring the Vision Back",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-bring-the-vision-back.jpg",
+    "thumbnail": "rh-meme-bring-the-vision-back-preview.jpg",
+    "alt": "Richard Heart overlooking a sunset city with the message Bring the Vision Back.",
+    "description": ""
+  },
+  {
+    "id": "ideas-still-here",
+    "title": "The Ideas Are Still Here",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-ideas-still-here.jpg",
+    "thumbnail": "rh-meme-ideas-still-here-preview.jpg",
+    "alt": "Glowing HEX, PulseChain and PulseX displays in a futuristic hall.",
+    "description": ""
+  },
+  {
+    "id": "keep-conversation-alive",
+    "title": "Keep the Conversation Alive",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-keep-conversation-alive.jpg",
+    "thumbnail": "rh-meme-keep-conversation-alive-preview.jpg",
+    "alt": "Friends gathered at a neon-lit table in a $RH Vision community poster.",
+    "description": ""
+  },
+  {
+    "id": "new-dawn-coming",
+    "title": "A New Dawn Is Coming",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-new-dawn-coming.jpg",
+    "thumbnail": "rh-meme-new-dawn-coming-preview.jpg",
+    "alt": "Richard Heart leaning against a classic Chevrolet overlooking the ocean at sunrise.",
+    "description": ""
+  },
+  {
+    "id": "we-are-all-richard-heart",
+    "title": "We Are All Richard Heart",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-we-are-all-richard-heart.jpg",
+    "thumbnail": "rh-meme-we-are-all-richard-heart-preview.jpg",
+    "alt": "A crowd of Richard Heart figures beneath neon signs and a PulseChain emblem.",
+    "description": ""
+  },
+  {
+    "id": "join-rh-conversation",
+    "title": "Join the Conversation",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-join-rh-conversation.jpg",
+    "thumbnail": "rh-meme-join-rh-conversation-preview.jpg",
+    "alt": "A $RH community poster celebrating Richard Heart’s ideas and inviting people to join @RHisPulseChain.",
+    "description": ""
+  },
+  {
     "id": "neon-richard-heart",
     "title": "RH Stands for Richard Heart",
     "date": "2026-10-28",
