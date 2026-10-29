@@ -1,5 +1,105 @@
 [
   {
+    "id": "building-the-good",
+    "title": "Daily Special: Building the Good",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-building-the-good.jpg",
+    "thumbnail": "rh-meme-building-the-good-preview.jpg",
+    "alt": "Vivid chalk artwork of Richard Heart building a brick wall beside a quote about building the good of the world.",
+    "description": ""
+  },
+  {
+    "id": "autumn-cafe-idea",
+    "title": "An Idea Whose Time Has Come",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-autumn-cafe-idea.jpg",
+    "thumbnail": "rh-meme-autumn-cafe-idea-preview.jpg",
+    "alt": "An autumn RH cafe scene with a sidewalk chalkboard, flowers and a couple at a table.",
+    "description": ""
+  },
+  {
+    "id": "scivive-collage",
+    "title": "sciVive Daily Collage",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-scivive-collage.jpg",
+    "thumbnail": "rh-meme-scivive-collage-preview.jpg",
+    "alt": "A collage of nine sciVive Daily graphics with luminous purple and gold illustrations.",
+    "description": ""
+  },
+  {
+    "id": "daily-special-collage",
+    "title": "Daily Specials Collage",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-daily-special-collage.jpg",
+    "thumbnail": "rh-meme-daily-special-collage-preview.jpg",
+    "alt": "A grid of nine colorful RH Daily Special chalkboard illustrations.",
+    "description": ""
+  },
+  {
+    "id": "promote-what-you-care-about",
+    "title": "Daily Special: Promote What You Care About",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-promote-what-you-care-about.jpg",
+    "thumbnail": "rh-meme-promote-what-you-care-about-preview.jpg",
+    "alt": "A colorful chalkboard quote about work, traction and promoting what you care about, with RH mascot and ecosystem logos.",
+    "description": ""
+  },
+  {
+    "id": "halloween-monster-chase",
+    "title": "Halloween Monster Chase",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-halloween-monster-chase.jpg",
+    "thumbnail": "rh-meme-halloween-monster-chase-preview.jpg",
+    "alt": "The RH mascot runs from a headless horseman and Halloween monsters beneath a full moon.",
+    "description": ""
+  },
+  {
+    "id": "stand-with-rh-city",
+    "title": "I Stand With Richard Heart",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-stand-with-rh-city.jpg",
+    "thumbnail": "rh-meme-stand-with-rh-city-preview.jpg",
+    "alt": "An illuminated futuristic city and ecosystem emblems under the words I Stand With Richard Heart.",
+    "description": ""
+  },
+  {
+    "id": "downtober-monster-chase",
+    "title": "Downtober Monster Chase",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-downtober-monster-chase.jpg",
+    "thumbnail": "rh-meme-downtober-monster-chase-preview.jpg",
+    "alt": "The RH mascot and a red-haired woman run from a giant red monster through a Halloween city.",
+    "description": ""
+  },
+  {
+    "id": "coin-at-its-best",
+    "title": "The Coin at Its Best",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-coin-at-its-best.jpg",
+    "thumbnail": "rh-meme-coin-at-its-best-preview.jpg",
+    "alt": "A neon RH mascot and a seated glamorous woman beside a humorous quote about a coin at its worst and best.",
+    "description": ""
+  },
+  {
+    "id": "cafe-distractions",
+    "title": "Daily Special at the Café",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-cafe-distractions.jpg",
+    "thumbnail": "rh-meme-cafe-distractions-preview.jpg",
+    "alt": "An RH cafe counter with a chalkboard displaying a Richard Heart quote about distractions and a neon tablet.",
+    "description": ""
+  },
+  {
     "id": "times-square-conversation",
     "title": "Back to the Conversation",
     "date": "2026-10-29",
