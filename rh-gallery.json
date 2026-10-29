@@ -1,5 +1,105 @@
 [
   {
+    "id": "good-morning-neon-mug",
+    "title": "Good Morning, $RH",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-good-morning-neon-mug.jpg",
+    "thumbnail": "rh-meme-good-morning-neon-mug-preview.jpg",
+    "alt": "A steaming black coffee mug with a neon RH emblem in a warm sunrise cafe.",
+    "description": ""
+  },
+  {
+    "id": "x-probation",
+    "title": "X Probation",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-x-probation.jpg",
+    "thumbnail": "rh-meme-x-probation-preview.jpg",
+    "alt": "The RH cartoon character sits at a desk while a stern X character supervises in a neon room.",
+    "description": ""
+  },
+  {
+    "id": "bringing-back-vision",
+    "title": "Bringing Back the Richard Heart Vision",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-bringing-back-vision.jpg",
+    "thumbnail": "rh-meme-bringing-back-vision-preview.jpg",
+    "alt": "A crowd looks toward a shining futuristic city beneath the message Bringing Back the Richard Heart Vision.",
+    "description": ""
+  },
+  {
+    "id": "let-rh-breathe",
+    "title": "Let $RH Breathe!",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-let-rh-breathe.jpg",
+    "thumbnail": "rh-meme-let-rh-breathe-preview.jpg",
+    "alt": "An X character limits a colorful RH cartoon character’s reach in a neon social-media satire.",
+    "description": ""
+  },
+  {
+    "id": "rh-neon-tablet",
+    "title": "RH on the Tablet",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-rh-neon-tablet.jpg",
+    "thumbnail": "rh-meme-rh-neon-tablet-preview.jpg",
+    "alt": "A tablet displays neon RH Stands for Richard Heart lettering and a PulseChain symbol.",
+    "description": ""
+  },
+  {
+    "id": "blunt-cash-cafe",
+    "title": "$RH at the Café",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-blunt-cash-cafe.jpg",
+    "thumbnail": "rh-meme-blunt-cash-cafe-preview.jpg",
+    "alt": "A cafe counter with pastries, blunt.cash signage and an RH neon tablet.",
+    "description": ""
+  },
+  {
+    "id": "red-wave-surfer",
+    "title": "Surfing the Red Wave",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-red-wave-surfer.jpg",
+    "thumbnail": "rh-meme-red-wave-surfer-preview.jpg",
+    "alt": "The RH cartoon mascot surfs inside a curling red wave at sunset.",
+    "description": ""
+  },
+  {
+    "id": "ideas-still-here-prvx",
+    "title": "The Ideas Are Still Here: Four Pillars",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-ideas-still-here-prvx.jpg",
+    "thumbnail": "rh-meme-ideas-still-here-prvx-preview.jpg",
+    "alt": "A futuristic hall displays glowing HEX, PulseChain, PulseX and PRVX panels.",
+    "description": ""
+  },
+  {
+    "id": "cafe-keys-coins",
+    "title": "$RH Café: Not Your Keys, Not Your Coins",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-cafe-keys-coins.jpg",
+    "thumbnail": "rh-meme-cafe-keys-coins-preview.jpg",
+    "alt": "A cafe chalkboard presents a Richard Heart quote about knowledge beside an RH neon tablet.",
+    "description": ""
+  },
+  {
+    "id": "neon-sign-green-dress",
+    "title": "The Neon RH Sign",
+    "date": "2026-10-28",
+    "type": "image",
+    "src": "rh-meme-neon-sign-green-dress.jpg",
+    "thumbnail": "rh-meme-neon-sign-green-dress-preview.jpg",
+    "alt": "A red-haired adult woman in a green dress stands beside a hanging neon RH sign on a brick wall.",
+    "description": ""
+  },
+  {
     "id": "1957-chevy",
     "title": "The $RH ’57 Chevy",
     "date": "2026-10-28",
