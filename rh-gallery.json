@@ -1,5 +1,105 @@
 [
   {
+    "id": "times-square-conversation",
+    "title": "Back to the Conversation",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-times-square-conversation.jpg",
+    "thumbnail": "rh-meme-times-square-conversation-preview.jpg",
+    "alt": "A neon-lit Times Square scene with an RH classic car and the message Time to bring Richard Heart back to the conversation.",
+    "description": ""
+  },
+  {
+    "id": "goodnight-classic-car",
+    "title": "Goodnight, $RH",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-goodnight-classic-car.jpg",
+    "thumbnail": "rh-meme-goodnight-classic-car-preview.jpg",
+    "alt": "An adult woman beside a classic car in a neon sunset scene reading Goodnight $RH.",
+    "description": ""
+  },
+  {
+    "id": "anonymity-daily-special",
+    "title": "Daily Special: Anonymity",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-anonymity-daily-special.jpg",
+    "thumbnail": "rh-meme-anonymity-daily-special-preview.jpg",
+    "alt": "A chalkboard with a Guy Fawkes mask, RH mug and Richard Heart anonymity quote.",
+    "description": ""
+  },
+  {
+    "id": "get-in-whale",
+    "title": "Get In, Whale James",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-get-in-whale.jpg",
+    "thumbnail": "rh-meme-get-in-whale-preview.jpg",
+    "alt": "A neon time-travel car and RH character outside a fictional detention facility.",
+    "description": ""
+  },
+  {
+    "id": "spicy-tweet",
+    "title": "Daily Special: Spicy Tweet",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-spicy-tweet.jpg",
+    "thumbnail": "rh-meme-spicy-tweet-preview.jpg",
+    "alt": "Richard Heart illustrated in vivid chalk beside a Daily Special quote about posts and weak hands.",
+    "description": ""
+  },
+  {
+    "id": "neon-cafe-interior",
+    "title": "The $RH Café",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-neon-cafe-interior.jpg",
+    "thumbnail": "rh-meme-neon-cafe-interior-preview.jpg",
+    "alt": "A warmly lit cafe with neon RH and blunt.cash signs, pastries and framed artwork.",
+    "description": ""
+  },
+  {
+    "id": "waiting-for-x",
+    "title": "Waiting for X",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-waiting-for-x.jpg",
+    "thumbnail": "rh-meme-waiting-for-x-preview.jpg",
+    "alt": "A man waits on a bench beside a humorous RH message about X treating posts like an infectious disease.",
+    "description": ""
+  },
+  {
+    "id": "through-adversity",
+    "title": "Through Adversity",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-through-adversity.jpg",
+    "thumbnail": "rh-meme-through-adversity-preview.jpg",
+    "alt": "Glowing ecosystem emblems and a community message about unity and perseverance.",
+    "description": ""
+  },
+  {
+    "id": "our-season",
+    "title": "Daily Special: Our Season",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-our-season.jpg",
+    "thumbnail": "rh-meme-our-season-preview.jpg",
+    "alt": "A colorful Richard Heart chalkboard illustration with a quote about our season.",
+    "description": ""
+  },
+  {
+    "id": "pulsechain-daily-special",
+    "title": "Daily Special: PulseChain",
+    "date": "2026-10-29",
+    "type": "image",
+    "src": "rh-meme-pulsechain-daily-special.jpg",
+    "thumbnail": "rh-meme-pulsechain-daily-special-preview.jpg",
+    "alt": "A dense colorful chalkboard collage celebrating Richard Heart and the PulseChain ecosystem.",
+    "description": ""
+  },
+  {
     "id": "good-morning-neon-mug",
     "title": "Good Morning, $RH",
     "date": "2026-10-28",
