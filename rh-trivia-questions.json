@@ -508,5 +508,515 @@
     "source": "https://help.pulseln.com/en/pulseln-general-faq/how-do-i-connect-metamask-to-pulsechain",
     "sourceLabel": "PulseLN network documentation",
     "verifiedOn": "2026-10-28"
+  },
+  {
+    "id": "crypto-001",
+    "category": "Bitcoin",
+    "difficulty": "Medium",
+    "question": "Who is credited with creating Bitcoin?",
+    "options": [
+      "Satoshi Nakamoto",
+      "Richard Heart",
+      "Vitalik Buterin",
+      "Charles Babbage"
+    ],
+    "answer": 0,
+    "explanation": "Bitcoin was introduced under the pseudonym Satoshi Nakamoto.",
+    "source": "https://bitcoin.org/en/faq",
+    "sourceLabel": "Bitcoin.org",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-002",
+    "category": "Bitcoin",
+    "difficulty": "Easy",
+    "question": "What is Bitcoin’s commonly stated maximum supply?",
+    "options": [
+      "21 billion BTC",
+      "21 million BTC",
+      "100 million BTC",
+      "Unlimited BTC"
+    ],
+    "answer": 1,
+    "explanation": "Bitcoin issuance is capped at approximately 21 million coins.",
+    "source": "https://bitcoin.org/en/faq",
+    "sourceLabel": "Bitcoin.org",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-003",
+    "category": "Bitcoin",
+    "difficulty": "Easy",
+    "question": "What is the smallest unit recorded on Bitcoin’s base chain?",
+    "options": [
+      "Gwei",
+      "Ether",
+      "Satoshi",
+      "Wei"
+    ],
+    "answer": 2,
+    "explanation": "A satoshi is one hundred millionth of a bitcoin.",
+    "source": "https://bitcoin.org/en/vocabulary",
+    "sourceLabel": "Bitcoin.org",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-004",
+    "category": "Ethereum",
+    "difficulty": "Medium",
+    "question": "Which asset is used to pay gas fees on Ethereum?",
+    "options": [
+      "BTC",
+      "PLSX",
+      "USDC",
+      "ETH"
+    ],
+    "answer": 3,
+    "explanation": "Ethereum gas fees are denominated and paid in ether.",
+    "source": "https://ethereum.org/en/developers/docs/gas/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-005",
+    "category": "Smart contracts",
+    "difficulty": "Easy",
+    "question": "What is a smart contract on Ethereum?",
+    "options": [
+      "Code and state at a blockchain address",
+      "A paper contract",
+      "An exchange password",
+      "A private email"
+    ],
+    "answer": 0,
+    "explanation": "A smart contract is a program stored at an Ethereum address.",
+    "source": "https://ethereum.org/en/developers/docs/smart-contracts/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-006",
+    "category": "Tokens",
+    "difficulty": "Easy",
+    "question": "Which standard is commonly used for fungible Ethereum tokens?",
+    "options": [
+      "ERC-721",
+      "ERC-20",
+      "HTTP",
+      "JPEG"
+    ],
+    "answer": 1,
+    "explanation": "ERC-20 specifies a common interface for fungible tokens.",
+    "source": "https://ethereum.org/en/developers/docs/standards/tokens/erc-20/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-007",
+    "category": "Consensus",
+    "difficulty": "Medium",
+    "question": "Which consensus mechanism does Ethereum use?",
+    "options": [
+      "Proof of work",
+      "Proof of storage",
+      "Proof of stake",
+      "Proof of email"
+    ],
+    "answer": 2,
+    "explanation": "Ethereum validators participate in proof-of-stake consensus.",
+    "source": "https://ethereum.org/en/developers/docs/consensus-mechanisms/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-008",
+    "category": "DeFi",
+    "difficulty": "Easy",
+    "question": "What does DeFi stand for?",
+    "options": [
+      "Digital files",
+      "Deferred fiat",
+      "Defined fees",
+      "Decentralized finance"
+    ],
+    "answer": 3,
+    "explanation": "DeFi refers to financial applications built on decentralized systems.",
+    "source": "https://ethereum.org/en/defi/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-009",
+    "category": "Wallets",
+    "difficulty": "Easy",
+    "question": "What is a crypto wallet used for?",
+    "options": [
+      "Managing keys and interacting with accounts",
+      "Creating guaranteed profits",
+      "Removing all transaction fees",
+      "Reversing every transfer"
+    ],
+    "answer": 0,
+    "explanation": "Wallets help users manage blockchain accounts and authorize actions.",
+    "source": "https://ethereum.org/en/wallets/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-010",
+    "category": "NFTs",
+    "difficulty": "Medium",
+    "question": "What does NFT stand for?",
+    "options": [
+      "New fiat transfer",
+      "Non-fungible token",
+      "Network fee total",
+      "Native funding tool"
+    ],
+    "answer": 1,
+    "explanation": "Non-fungible tokens represent distinct rather than interchangeable items.",
+    "source": "https://ethereum.org/en/developers/docs/standards/tokens/erc-721/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-011",
+    "category": "Bitcoin",
+    "difficulty": "Easy",
+    "question": "What links successive blocks in a blockchain?",
+    "options": [
+      "Email addresses",
+      "Phone numbers",
+      "Cryptographic hashes",
+      "Bank routing codes"
+    ],
+    "answer": 2,
+    "explanation": "Blocks reference earlier blocks using hashes.",
+    "source": "https://bitcoin.org/en/vocabulary",
+    "sourceLabel": "Bitcoin.org",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-012",
+    "category": "Bitcoin",
+    "difficulty": "Easy",
+    "question": "What does a Bitcoin confirmation indicate?",
+    "options": [
+      "A bank guarantee",
+      "An email receipt",
+      "A fixed dollar price",
+      "Inclusion in a block and subsequent blocks"
+    ],
+    "answer": 3,
+    "explanation": "Confirmations reflect a transaction’s inclusion and depth in the chain.",
+    "source": "https://bitcoin.org/en/vocabulary",
+    "sourceLabel": "Bitcoin.org",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-013",
+    "category": "Wallets",
+    "difficulty": "Medium",
+    "question": "Which key must remain secret?",
+    "options": [
+      "Private key",
+      "Public key",
+      "Public receiving address",
+      "Transaction identifier"
+    ],
+    "answer": 0,
+    "explanation": "Private keys authorize spending and must be protected.",
+    "source": "https://bitcoin.org/en/vocabulary",
+    "sourceLabel": "Bitcoin.org",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-014",
+    "category": "Bitcoin",
+    "difficulty": "Easy",
+    "question": "What is Bitcoin mining associated with?",
+    "options": [
+      "Proof of email",
+      "Proof of work",
+      "Proof of identity",
+      "Proof of phone"
+    ],
+    "answer": 1,
+    "explanation": "Mining performs proof-of-work computations to propose blocks.",
+    "source": "https://bitcoin.org/en/vocabulary",
+    "sourceLabel": "Bitcoin.org",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-015",
+    "category": "Bitcoin",
+    "difficulty": "Easy",
+    "question": "How many satoshis equal one bitcoin?",
+    "options": [
+      "1,000",
+      "1,000,000",
+      "100,000,000",
+      "10,000"
+    ],
+    "answer": 2,
+    "explanation": "One bitcoin is divided into one hundred million satoshis.",
+    "source": "https://bitcoin.org/en/vocabulary",
+    "sourceLabel": "Bitcoin.org",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-016",
+    "category": "Ethereum",
+    "difficulty": "Medium",
+    "question": "What does gas measure on Ethereum?",
+    "options": [
+      "An account’s age",
+      "A token’s price",
+      "Internet speed",
+      "Computational effort"
+    ],
+    "answer": 3,
+    "explanation": "Gas units measure computational work needed for operations.",
+    "source": "https://ethereum.org/en/developers/docs/gas/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-017",
+    "category": "Ethereum",
+    "difficulty": "Easy",
+    "question": "What is gwei commonly used to express?",
+    "options": [
+      "Gas prices",
+      "Bitcoin supply",
+      "NFT serial numbers",
+      "Wallet passwords"
+    ],
+    "answer": 0,
+    "explanation": "One gwei is one billionth of an ether and is used for gas pricing.",
+    "source": "https://ethereum.org/en/developers/docs/gas/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-018",
+    "category": "Ethereum",
+    "difficulty": "Easy",
+    "question": "Does deploying a smart contract require a transaction?",
+    "options": [
+      "Only on weekends",
+      "Yes",
+      "Never",
+      "Only for NFTs"
+    ],
+    "answer": 1,
+    "explanation": "Contract creation is an Ethereum transaction and consumes gas.",
+    "source": "https://ethereum.org/en/developers/docs/smart-contracts/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-019",
+    "category": "Tokens",
+    "difficulty": "Medium",
+    "question": "Are units of a fungible token interchangeable?",
+    "options": [
+      "Only after a year",
+      "Never",
+      "Yes, within the same token",
+      "Only if sent by email"
+    ],
+    "answer": 2,
+    "explanation": "Fungibility means equivalent units are interchangeable.",
+    "source": "https://ethereum.org/en/developers/docs/standards/tokens/erc-20/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-020",
+    "category": "NFTs",
+    "difficulty": "Easy",
+    "question": "Which Ethereum token standard is associated with unique tokens?",
+    "options": [
+      "ERC-20",
+      "SMTP",
+      "DNS",
+      "ERC-721"
+    ],
+    "answer": 3,
+    "explanation": "ERC-721 defines an interface for non-fungible tokens.",
+    "source": "https://ethereum.org/en/developers/docs/standards/tokens/erc-721/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-021",
+    "category": "DeFi",
+    "difficulty": "Easy",
+    "question": "What is a decentralized exchange commonly called?",
+    "options": [
+      "DEX",
+      "DNS",
+      "PDF",
+      "CPU"
+    ],
+    "answer": 0,
+    "explanation": "DEX is short for decentralized exchange.",
+    "source": "https://ethereum.org/en/defi/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-022",
+    "category": "DeFi",
+    "difficulty": "Medium",
+    "question": "What does a liquidity pool supply for trading?",
+    "options": [
+      "Guaranteed returns",
+      "Assets available for swaps",
+      "Wallet passwords",
+      "New email accounts"
+    ],
+    "answer": 1,
+    "explanation": "Liquidity pools make assets available to exchange.",
+    "source": "https://ethereum.org/en/defi/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-023",
+    "category": "Wallets",
+    "difficulty": "Easy",
+    "question": "What does self-custody mean?",
+    "options": [
+      "An exchange controls every key",
+      "A bank guarantees token prices",
+      "You control the keys to your assets",
+      "Transactions require email approval"
+    ],
+    "answer": 2,
+    "explanation": "Self-custody places control of signing keys with the user.",
+    "source": "https://ethereum.org/en/wallets/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-024",
+    "category": "Bitcoin",
+    "difficulty": "Easy",
+    "question": "Does Bitcoin require a central bank to process payments?",
+    "options": [
+      "Yes, every payment",
+      "Only for mining",
+      "Only for small payments",
+      "No"
+    ],
+    "answer": 3,
+    "explanation": "Bitcoin is a peer-to-peer network without a central banking operator.",
+    "source": "https://bitcoin.org/en/faq",
+    "sourceLabel": "Bitcoin.org",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-025",
+    "category": "Bitcoin",
+    "difficulty": "Medium",
+    "question": "Can a private key be recovered from a public address by a normal wallet feature?",
+    "options": [
+      "No",
+      "Yes, with a username",
+      "Yes, by email",
+      "Yes, by changing networks"
+    ],
+    "answer": 0,
+    "explanation": "A public address does not reveal the corresponding private key.",
+    "source": "https://bitcoin.org/en/faq",
+    "sourceLabel": "Bitcoin.org",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-026",
+    "category": "Smart contracts",
+    "difficulty": "Easy",
+    "question": "Where is an Ethereum smart contract’s state stored?",
+    "options": [
+      "Only in its creator’s browser",
+      "On the blockchain",
+      "In a printed certificate",
+      "Only in email"
+    ],
+    "answer": 1,
+    "explanation": "Contract code and state reside at a blockchain address.",
+    "source": "https://ethereum.org/en/developers/docs/smart-contracts/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-027",
+    "category": "Ethereum",
+    "difficulty": "Easy",
+    "question": "What do Ethereum validators stake?",
+    "options": [
+      "BTC",
+      "PLSX",
+      "ETH",
+      "Airline points"
+    ],
+    "answer": 2,
+    "explanation": "Ethereum’s proof-of-stake security uses staked ether.",
+    "source": "https://ethereum.org/en/developers/docs/consensus-mechanisms/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-028",
+    "category": "Bitcoin",
+    "difficulty": "Medium",
+    "question": "What is a transaction fee used to incentivize?",
+    "options": [
+      "Setting a guaranteed price",
+      "Resetting a seed phrase",
+      "Making a password public",
+      "Including a transaction in a block"
+    ],
+    "answer": 3,
+    "explanation": "Fees help incentivize miners to include transactions.",
+    "source": "https://bitcoin.org/en/faq",
+    "sourceLabel": "Bitcoin.org",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-029",
+    "category": "Tokens",
+    "difficulty": "Easy",
+    "question": "Which ERC-20 function checks a token balance?",
+    "options": [
+      "balanceOf",
+      "sendEmail",
+      "resetPassword",
+      "mineBitcoin"
+    ],
+    "answer": 0,
+    "explanation": "The ERC-20 interface exposes balanceOf for account balances.",
+    "source": "https://ethereum.org/en/developers/docs/standards/tokens/erc-20/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
+  },
+  {
+    "id": "crypto-030",
+    "category": "Tokens",
+    "difficulty": "Easy",
+    "question": "What does an ERC-20 allowance authorize?",
+    "options": [
+      "Anyone to reveal your seed",
+      "A spender to transfer up to an approved amount",
+      "A guaranteed loan",
+      "A change to Bitcoin’s supply"
+    ],
+    "answer": 1,
+    "explanation": "Allowances grant a specified spender limited token transfer authority.",
+    "source": "https://ethereum.org/en/developers/docs/standards/tokens/erc-20/",
+    "sourceLabel": "Ethereum documentation",
+    "verifiedOn": "2026-10-30"
   }
 ]
