@@ -2,7 +2,7 @@
 const C=TriviaCore,$=s=>document.querySelector(s),key='rh-daily-trivia-v2';let bank,records={},today=C.dayKey(),current=C.index(),view=current,slot=0,chosen=null,finished=false;
 try{records=JSON.parse(localStorage.getItem(key))||{};if(!records||typeof records!=='object'||Array.isArray(records))records={}}catch{}
 try{const r=await fetch('rh-trivia-questions.json?v=5',{cache:'no-cache'});if(!r.ok)throw Error();bank=await r.json()}catch{$('h2').textContent='Questions could not load. Please refresh.';$('#reveal').hidden=true;return}
-function round(i){if(i<2)return [bank[i]];const rh=bank.filter(q=>!q.id.startsWith('crypto-')),general=bank.filter(q=>q.id.startsWith('crypto-'));const d=i-2;return [rh[(d*2)%rh.length],general[(d*3)%general.length],rh[(d*2+1)%rh.length],general[(d*3+1)%general.length],general[(d*3+2)%general.length]]}
+function round(i){if(i<2)return [bank[i]];const rh=bank.filter(q=>!q.id.startsWith('crypto-')),general=bank.filter(q=>q.id.startsWith('crypto-'));const d=i-2;return [rh[(d*2)%rh.length],general[(d*3)%general.length],rh[(d*2+1)%rh.length]]}
 try{const old=JSON.parse(localStorage.getItem('rh-daily-trivia-v1'))||{};for(const [d,r] of Object.entries(old)){if(d<'2026-10-30'&&r.daily&&Number.isInteger(r.chosen)&&!records[d])records[d]={[r.id]:{chosen:r.chosen,daily:true}}}}catch{}
 function answers(i){const r=records[C.dateAt(i)];return r&&typeof r==='object'?r:{}}
 function complete(i){return round(i).every(q=>Number.isInteger(answers(i)[q.id]?.chosen)&&answers(i)[q.id]?.daily===true)}
@@ -16,3 +16,4 @@ function reveal(restore=false){if(chosen===null||finished)return;if(C.dayKey()!=
 function refresh(){const d=C.dayKey();if(d!==today){today=d;current=C.index();view=current;slot=0;render()}const s=Math.floor(Math.max(0,C.nextMidnight()-Date.now())/1000);$('#countdown').textContent=Math.floor(s/3600)+'h '+Math.floor(s%3600/60)+'m '+s%60+'s until the next round'}
 $('#reveal').onclick=()=>reveal();render();refresh();setInterval(refresh,1000);document.addEventListener('visibilitychange',()=>{if(!document.hidden)refresh()});
 })();
+
